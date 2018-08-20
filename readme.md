@@ -1,3 +1,40 @@
+# y_properties
+
+A complete buyable properties system, including banks, houses, shops, and more.
+
+
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_properties-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Visual/y_properties)
+
+## Installation
+
+To install just this one library:
+
+```bash
+sampctl package install YSI-Visual/y_properties
+```
+
+Include in your code and begin using the library:
+
+```pawn
+#include <YSI-Visual/y_properties>
+```
+
+## Documentation
+
+* [Quick Start](YSI-Visual/y_properties/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Visual/y_properties/features.md) - More features and examples.
+* [FAQs](YSI-Visual/y_properties/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Visual/y_properties/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Visual/y_properties/internal.md) - Internal developer documentation for the system.
+
+## Testing
+
+To test, simply run the package:
+
+```bash
+sampctl package run
+```
+
 # YSI
 
 ## General Information
@@ -109,34 +146,4 @@ Libraries that have in-game visible effects.
 * [y_races](https://github.com/YSI-Visual/y_races/blob/dev/YSI-Visual/y_races.md)
 * [y_zonenames](https://github.com/YSI-Visual/y_zonenames/blob/dev/YSI-Visual/y_zonenames.md)
 * [y_zonepulse](https://github.com/YSI-Visual/y_zonepulse/blob/dev/YSI-Visual/y_zonepulse.md)
-
-# y_properties
-
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_properties-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Visual/y_properties)
-
-## Installation
-
-To install just this one library:
-
-```bash
-sampctl package install YSI-Visual/y_properties
-```
-
-Include in your code and begin using the library:
-
-```pawn
-#include <YSI-Visual/y_properties>
-```
-
-## Usage
-
-[Click Here] (YSI-Visual/y_properties.md)
-
-## Testing
-
-To test, simply run the package:
-
-```bash
-sampctl package run
-```
 
